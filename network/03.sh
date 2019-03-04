@@ -1,0 +1,1 @@
+ifconfig -a | grep 'en1' -C 1 | grep 'ether' | awk '{print $2}'
