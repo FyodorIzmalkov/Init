@@ -1,0 +1,1 @@
+ipconfig getpacket en0 | grep yi | awk '{print $3}'
