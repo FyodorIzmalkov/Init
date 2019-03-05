@@ -1,2 +1,3 @@
 ssh fyodor@127.0.0.1
+#ssh  user@<ip-address-or-hostname>
 #/etc/ssh/sshd_config

@@ -1,5 +1,8 @@
-Как подключиться с нового пользователя
-Возможно придется сделать перезапуск ssh:    service ssh restart
-
-п. 17
-ssh lsandor@127.0.0.1
+# login to the system as a root user
+su 
+# to change to a new user
+su - username
+# to check
+sudo whoami
+#or and type the pass
+ssh <domainuser>@<hostname>

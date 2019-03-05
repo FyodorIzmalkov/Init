@@ -1,1 +1,5 @@
-systemctl list-units --type service
+sudo service --status-all
+#ls /etc/init.d
+
+#for all: systemctl list-units --type service --all
+#daemon - programms that run in the background

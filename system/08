@@ -1,1 +1,4 @@
 ~/.ssh/authorized_keys
+# RSA is a private key used for authentication +  secure data transmission
+# the encription key is public and the decription key is kept secret (private)
+#ssh-keygen -t rsa

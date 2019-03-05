@@ -1,1 +1,4 @@
+# du (disc usage) 
+# -s = summarize
+# -h = human-readable
 du -sh /var/*

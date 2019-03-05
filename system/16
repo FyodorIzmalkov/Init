@@ -1,2 +1,4 @@
 cron
 #cron — daemon to execute scheduled commands.
+# cron is the program and crontab is the command
+#https://www.adminschoice.com/crontab-quick-reference

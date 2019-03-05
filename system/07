@@ -1,1 +1,3 @@
+# PID is process ID
+# SSH is a Secure Shell Daemon application
 cat /var/run/sshd.pid

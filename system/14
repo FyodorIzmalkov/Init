@@ -1,1 +1,2 @@
-tail -f /var/log/syslog &
+sudo tail -f /var/log/syslog &
+#it's also possible to launch the command, then do Ctrl + Z (which stop it) and then type "bg" to put it in the background
