@@ -1,0 +1,4 @@
+pgrep -u test
+ps -fp $(pgrep -u test)
+sudo killall -KILL -u test
+sudo userdel -r test
