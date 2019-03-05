@@ -1,0 +1,4 @@
+cat /etc/issue
+cat /etc/os-release
+cat /etc/debian_version
+lsb_release -a
