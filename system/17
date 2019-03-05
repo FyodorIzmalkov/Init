@@ -1,1 +1,2 @@
-ssh -p 2222 lsandor@127.0.0.1
+ssh fyodor@127.0.0.1
+#/etc/ssh/sshd_config

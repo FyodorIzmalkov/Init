@@ -2,3 +2,6 @@ sudo service ssh status
 #sudo /etc/init.d/ssh status
 #sudo systemctl status ssh
 #sudo apt-get update sudo apt-get install openssh-server
+#su -
+#apt-get install sudo -y
+#usermod -aG sudo yourusername

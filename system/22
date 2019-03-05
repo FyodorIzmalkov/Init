@@ -1,0 +1,4 @@
+#su
+adduser username
+#passwd username
+#useradd
