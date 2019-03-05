@@ -1,0 +1,2 @@
+arp -a | awk -F" " '{print $2}' | tr -d '(' | tr -d ')'
+#ping 192.168.21.255
